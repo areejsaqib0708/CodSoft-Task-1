@@ -1,6 +1,4 @@
-# CodSoft-Task-1
-
-To-Do List Application with Python and Tkinter
+# To-Do List Application with Python and Tkinter
 
 This GitHub repository contains a simple yet functional To-Do List application built using Python and the Tkinter library for GUI development. The main purpose of this application is to help users manage their tasks in an organized manner. The application offers an intuitive user interface that enables users to easily add, delete, and mark tasks as done. The design is clean and user-friendly, making it suitable for personal task management.
 
